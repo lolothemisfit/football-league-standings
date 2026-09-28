@@ -6,8 +6,6 @@ The conversation is included as a record of the AI collaboration used during dev
 
 ## Conversation
 
-[Paste the Copilot conversation here.]
-
 
 User: I am completing a software engineering assessment. I want you to act as an AI development collaborator, not simply generate the entire solution for me.
 
