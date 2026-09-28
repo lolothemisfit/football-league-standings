@@ -31,7 +31,6 @@ football-league-standings/
 │   ├── test_csv_io.py
 │   └── test_standings.py
 ├── AI-COLLABORATION.md
-├── AI_REFLECTION.md
 ├── GITHUB_COPILOT_INSTRUCTIONS.md
 └── README.md
 ```
